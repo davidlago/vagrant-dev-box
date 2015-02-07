@@ -1,0 +1,5 @@
+[user]
+  email = davidlago@gmail.com
+        name = David Lago
+[include]
+        path = ~/dotfiles/.gitconfig-include
